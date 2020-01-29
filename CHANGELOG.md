@@ -1,15 +1,15 @@
 IODS Core M2 - CHANGELOG
 ========================
 
-0.1.0 - 2020-01-04
+0.1 - 2020-01-03
 ------------------
 
- * **Important:** This is the first release.
+ * **Important:** Initial commit of project.
 
 #### Changes:
 
- * **Important:** This is the first release.
+ * **Important:** Initial commit of project.
 
 #### Removals:
 
- * **Important:** This is the first release.
+ * **Important:** Initial commit of project.
