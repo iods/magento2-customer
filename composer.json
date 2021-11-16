@@ -1,6 +1,6 @@
 {
-  "name": "iods/core",
-  "description": "Core/base module for M2 extension builds.",
+  "name": "iods/customer",
+  "description": "Improvements and configuration additions to the customer in M2",
   "type": "magento2-module",
   "license": [
     "MIT"
@@ -13,7 +13,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Darkstar\\Core\\": ""
+      "Darkstar\\Customer\\": ""
     }
   },
   "version": "0.1.1"
